@@ -1,4 +1,4 @@
-package co.edu.sena.soy.my_app_sanword117
+package com.SANWORD117
 
 fun main() {
     println("Hola Mundo!")
